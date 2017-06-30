@@ -15,3 +15,6 @@ There were some setup steps that were implied or assumed one would know how to a
   * System.Drawing
 
 This example is for the C# implementation of LeanFT.  I will try out a Java implementation of LeanFT when I have time.  I would imagine they would be ver similar to the Selenium.
+
+
+***NOTE*** You will need create an account with AppliTools so you can generate your own API Key.  The one in this script is only a trial key.  After you have created your account and logged in, click on the person icon (upper right corner) and select API Key.
